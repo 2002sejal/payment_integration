@@ -10,6 +10,6 @@ A simple website where payment gateway is integrated.
 ◇ On any page / email, only basic information is needed.
 
 Tech Stack
-Languages Used: HTML, CSS, BOOTSTRAP, JAVASCRIPT
+Languages Used: HTML, CSS, , JAVASCRIPT
 
 Payement: RazorPay
